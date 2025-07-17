@@ -1,0 +1,16 @@
+{
+  "name": "eduwork",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.5.1",
+    "prettier": "^3.6.2"
+  },
+    "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  }
+}
